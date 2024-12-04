@@ -11,7 +11,7 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
 
 So, with the definition, A and B are isomophic when they have the same structure of 
-having the same amoung of nodes and are connected. This is becuase if a graph has a node
+having the same amount of nodes and are connected. This is becuase if a graph has a node
 that is connected to another node, no matter how they cross over or the connection
 lays in any way, it still has the same structure. A structure can only change when it 
 has additional or less nodes or if a node is not connected to another node. Hence, A
