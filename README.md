@@ -15,6 +15,6 @@ With this formal definition, we can argue with it to prove that these two graphs
 Revision in response to latest change request: 
 To map nodes between graphs, we use the degree of each node, as shown in the lecture. Starting with a node in graph $A$, we check its degree(the number of edges connected to it). In graph $B$, we find a node with the same degree and map them. Repeating this process for all nodes, making sure each node in $A$ is paired with one in $B$ that has the same degree. For example, if a node in A has a degree of 1(connected to one other node by a single edge), we find a node in $B$ with a degree of 1 and map them(as shown in the lecture video). This process continues until all nodes are paired.
 
-I used the class slides on graphing. I also got help from the TA in lab.
+I used the class slides and video on graphing. I also got help from the TA in lab.
 
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
